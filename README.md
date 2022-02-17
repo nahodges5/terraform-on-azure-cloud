@@ -1,5 +1,5 @@
 # Terraform on Azure with IaC DevOps and SRE | Real-World 25 Demos
-# Nathan
+
 [![Image](https://stacksimplify.com/course-images/terraform-on-azure-with-iac-azure-devops-sre-1.png "Terraform on Azure with IaC DevOps and SRE | Real-World 25 Demos")](https://links.stacksimplify.com/terraform-on-azure-with-iac-devops-sre)
 
 
